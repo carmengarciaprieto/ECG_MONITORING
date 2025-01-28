@@ -1,4 +1,0 @@
-Tipo,ArchivoMax,ArchivoMin,Máximo,Mínimo,Resultado
-mSQI Original,mSQI_Top_NewIII_Working_2024-10-18.txt.csv,mSQI_Top_NewIII_Stairs_2024-10-18.txt.csv,0.941330596648706,0.710487618197946,0.324907813363815
-mSQI Corregido (Arm),CorrectionmSQITopNewIIIWorking20241018_csvPowerArmNewIIIWorking.csv,CorrectionmSQITopNewIIIStairs20241018_csvPowerArmNewIIIStairs20.csv,0.0011201827134708,0.000670548362665191,0.670547235427542
-mSQI Corregido (Sternum),CorrectionmSQITopNewIIIWorking20241018_csvPowerSternumNewIIIWor.csv,CorrectionmSQITopNewIIIStairs20241018_csvPowerSternumNewIIIStai.csv,0.000535275130997813,0.0013763587750274,-0.611093313233567
